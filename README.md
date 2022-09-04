@@ -1,4 +1,4 @@
-A site for selling bicycles - [DEMO LINK](https://kata96451.github.io/creativeBakery/)
+A landing page for the selling custom baked goods - [DEMO LINK](https://kata96451.github.io/creativeBakery/)
 
 Used technologies:
   - HTML
@@ -7,7 +7,7 @@ Used technologies:
   - BEM
   - JS
 
-The project also used libraries such as
+Also used libraries such as
   - Animate.css
   - Animate On Scroll Library
 
